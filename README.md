@@ -39,7 +39,7 @@
 
    
    
-## 4. API 설계
+## 4. 프로젝트 기간 : 2022. 7. 11. ~ 7. 14.
 
 
 ## 5. Trouble Shooting
@@ -93,4 +93,4 @@ JSON Web Token(JWT)란 인증에 필요한 정보들을 암호화시킨 토큰�
 
 ## 7. public github repo 주소 : 
 
- https://github.com/My-Challengeeeee/My-Challenge
+https://github.com/My-Challengeeeee/Challenge_Pick.git
